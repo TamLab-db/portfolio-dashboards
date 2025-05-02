@@ -6,7 +6,7 @@ Bienvenida/o a mi portfolio de dashboards interactivos desarrollados 100% en Exc
 
 ## 🧩 ¿Qué incluye este archivo?
 
-📁 **Dashboards_Excel.xlsx**  
+📁 **Análisis de ventas comerciales.xlsx**  
 Contiene dos dashboards:
 
 1. **Dashboard Comercial**
